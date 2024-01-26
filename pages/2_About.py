@@ -69,12 +69,7 @@ def main():
         ("Karmouch Adnane", "blank-mind-op"),
         ("Wiame Jouihri", "wiamejh"),
         ("Torqui Redouane", "torqui1"),
-        ("Amine Boumadian", "AmineBMD1"),
-        ("Bassam Mejlaoui", "mejbass"),
-        ("Amine ait yaaza", "dflhqiofioqzefpiozemj"),
-        ("Kara Salah Eddine", "karaone1"),
-        ("Maamri redouane", "Redouane77777"),
-        ("HANANE EL HILALI", "hanane-el-hilali"),
+        ("Bahae Eddine Halim", "halimbahae"),
     ]
 
     # Create columns for team members
